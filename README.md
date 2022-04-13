@@ -8,7 +8,7 @@
   <a href="https://github.com/search?q=user%3Avenika-sem+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
 
-<h2>💻 Operatiing Systems</h2>
+<h2>💻 Operating Systems</h2>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS">
